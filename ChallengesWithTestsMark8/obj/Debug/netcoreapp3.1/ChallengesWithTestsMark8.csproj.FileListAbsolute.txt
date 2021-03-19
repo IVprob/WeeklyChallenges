@@ -1,0 +1,12 @@
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.deps.json
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.runtimeconfig.dev.json
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.dll
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.pdb
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.dll
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.pdb
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/ttair/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.csprojAssemblyReference.cache
