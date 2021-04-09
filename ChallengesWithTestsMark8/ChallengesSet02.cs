@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+
 
 namespace ChallengesWithTestsMark8
 {
@@ -34,7 +36,15 @@ namespace ChallengesWithTestsMark8
 
         public double SumOfMinAndMax(IEnumerable<double> numbers)
         {
-            throw new NotImplementedException();
+          
+
+            double max = numbers.Max();
+            double min = numbers.Min();
+            double sum = max + min;
+
+
+            return numbers == null ? 0 : sum;
+            
         }
 
         public int GetLengthOfShortestString(string str1, string str2)
@@ -105,20 +115,65 @@ namespace ChallengesWithTestsMark8
 
         public long CountOfPositiveOddsBelowNumber(long number)
         {
-            if (number < 0)
-            {
-                return 0;
-            }
-            else
-            {
-                for (long i = 0; i <= number; i++)
-                {
-                    if (i % 2 == 0)
-                    /{
-                        
-                    }
-                }
-            }
+            return number > 1 ? number / 2 : 0;
+
+
+           // ----------------------
+            //long upperRange = number;
+            //long lowerRange = 0;
+
+            //long num = (((upperRange) - (lowerRange + 2)) / 2) + 1;
+
+            //return number > 1 ? num : 0;
+            //-----------------------
+            //This doens't work,
+            //long num = 0;
+            //if (number > 1)
+            //{
+            //    for (int i = 0; i < number; i++)
+            //    {
+            //       if (i % 2 != 0)
+            //        {
+            //            num++;
+            //        }
+            //        return num;
+            //    }
+            //    return num;
+            //}
+            //else
+            //{
+            //    return 0;
+            //}
+
+            //--------------------------
+
+            //long num = 0;
+            //var numList = new List<long> { };
+
+            //if (number <= 1)
+            //{
+            //    return 0;
+            //}
+            //else if (number > 1 && number < 10001)
+            //{
+            //    for (var i = 0; i < number; i++)
+            //    {
+            //        numList.Add(i);
+            //    }
+            //    foreach (var item in numList)
+            //    {
+            //        if (item % 2 != 0)
+            //        {
+            //            num++;
+            //        }
+
+            //    }
+            //    return num;
+            //}
+            //else
+            //{
+            //    return 0;
+            //}
         }
     }
 }
