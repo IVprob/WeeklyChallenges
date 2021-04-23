@@ -119,7 +119,7 @@ namespace ChallengesWithTestsMark8
 
             //return number > 1 ? num : 0;
             //-----------------------
-            //This doens't work,
+            //This doesn't work,
             //long num = 0;
             //if (number > 1)
             //{
